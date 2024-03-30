@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9hY75RAYoFR5hjNUN+QpgF0Mgw8qCsOsE9Z0oUX6fcyJmB/W+og1Xql5C0Aldla1Pgnb39huz07YKABwdltVmw==",
+  "dgSpecHash": "bA24fJqb09Ft3U0SA1xIRAg9z0YaBCkqlVsh7UIVNRE+YgtbYCxzW0kOZohuIjoHgp9N3T4+mttkdsk/6HF56A==",
   "success": true,
   "projectFilePath": "/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/BlazorWebAssembly.Client.csproj",
   "expectedPackageFiles": [
@@ -28,13 +28,12 @@
     "/Users/karimmoustamid/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/karimmoustamid/.nuget/packages/microsoft.jsinterop/7.0.15/microsoft.jsinterop.7.0.15.nupkg.sha512",
     "/Users/karimmoustamid/.nuget/packages/microsoft.jsinterop.webassembly/7.0.15/microsoft.jsinterop.webassembly.7.0.15.nupkg.sha512",
-    "/Users/karimmoustamid/.nuget/packages/microsoft.net.illink.analyzers/7.0.100-1.23211.1/microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
-    "/Users/karimmoustamid/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23211.1/microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
-    "/Users/karimmoustamid/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.1/microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "/Users/karimmoustamid/.nuget/packages/microsoft.net.illink.tasks/8.0.1/microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "/Users/karimmoustamid/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.2/microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
     "/Users/karimmoustamid/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/karimmoustamid/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/karimmoustamid/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/karimmoustamid/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.16/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.16.nupkg.sha512"
+    "/Users/karimmoustamid/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.2/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }

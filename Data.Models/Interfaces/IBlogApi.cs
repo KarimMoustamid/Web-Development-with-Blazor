@@ -2,6 +2,10 @@ namespace Data.Models.Interfaces
 {
     using Models;
 
+    /// <summary>
+    /// Represents the interface for accessing the blog API.
+    /// Contains All the methods we need to get, save, and delete blog posts, tags, and categories 
+    /// </summary>
     public interface IBlogApi
     {
         Task<int> GetBlogPostCountAsync();

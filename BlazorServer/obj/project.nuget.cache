@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RybeSHS5snrM5wu1PctkOJc1I7dZ9pKwGK5L2oeDHHFu4TyJlzy+pMfUyD9G8e1TYHIaFN/i0Z6TuXqlYlrgyA==",
+  "dgSpecHash": "3sM9y53uTqLdXgZTFWmvygjsUQePBVvIL71HCYM+o5fcb9tHMeUTAQcPPt2EcoGN/4n8bKF2mG2r2KYED1eNqQ==",
   "success": true,
   "projectFilePath": "/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorServer/BlazorServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/karimmoustamid/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/karimmoustamid/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/karimmoustamid/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

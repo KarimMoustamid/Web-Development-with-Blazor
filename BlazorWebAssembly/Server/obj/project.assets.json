@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net8.0": {
       "Microsoft.AspNetCore.Authorization/7.0.15": {
         "type": "package",
         "dependencies": {
@@ -491,7 +491,7 @@
       },
       "BlazorWebAssembly.Client/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BlazorWebAssembly.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.15"
@@ -505,7 +505,7 @@
       },
       "BlazorWebAssembly.Shared/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
           "bin/placeholder/BlazorWebAssembly.Shared.dll": {}
         },
@@ -1259,7 +1259,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net8.0": [
       "BlazorWebAssembly.Client >= 1.0.0",
       "BlazorWebAssembly.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 7.0.15"
@@ -1281,7 +1281,7 @@
         "/Users/karimmoustamid/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
@@ -1289,8 +1289,8 @@
         "https://nuget.telerik.com/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {
             "/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/BlazorWebAssembly.Client.csproj": {
               "projectPath": "/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/BlazorWebAssembly.Client.csproj"
@@ -1308,8 +1308,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly.Server": {
             "target": "Package",
@@ -1335,7 +1335,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

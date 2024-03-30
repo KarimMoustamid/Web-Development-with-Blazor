@@ -5,6 +5,9 @@ namespace Data
     using Models.Interfaces;
     using Models.Models;
 
+    /// <summary>
+    /// Provides direct access to the Blog API using JSON files for data storage.
+    /// </summary>
     public class BlogApiJsonDirectAccess : IBlogApi
     {
         BlogApiJsonDirectAccessSetting _settings;
