@@ -9,3 +9,4 @@
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Shared/obj/Debug/net7.0/refint/BlazorWebAssembly.Shared.dll
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Shared/obj/Debug/net7.0/BlazorWebAssembly.Shared.pdb
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Shared/obj/Debug/net7.0/ref/BlazorWebAssembly.Shared.dll
+/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Shared/obj/Debug/net7.0/BlazorWebAssembly.Shared.sourcelink.json

@@ -53,3 +53,6 @@
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Server/obj/Debug/net7.0/BlazorWebAssembly.Server.pdb
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Server/obj/Debug/net7.0/BlazorWebAssembly.Server.genruntimeconfig.cache
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Server/obj/Debug/net7.0/ref/BlazorWebAssembly.Server.dll
+/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Server/bin/Debug/net7.0/package-lock.json
+/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Server/bin/Debug/net7.0/package.json
+/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Server/obj/Debug/net7.0/BlazorWebAssembly.Server.sourcelink.json

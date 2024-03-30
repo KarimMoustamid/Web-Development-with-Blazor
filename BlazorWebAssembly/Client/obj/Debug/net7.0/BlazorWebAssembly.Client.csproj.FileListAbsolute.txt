@@ -839,3 +839,4 @@
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/obj/Debug/net7.0/ref/BlazorWebAssembly.Client.dll
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/bin/Debug/net7.0/package-lock.json
 /Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/bin/Debug/net7.0/package.json
+/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/obj/Debug/net7.0/BlazorWebAssembly.Client.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R2txiqbp6mh1k1dAnoHnvDHquiYutC1BgJjq5Hn1+gw=",
+  "Hash": "F22tYL3JzpogkOw0W6wFNxydFwwUCCBxMiVf7Ej06JE=",
   "Source": "BlazorWebAssembly.Server",
   "BasePath": "_content/BlazorWebAssembly.Server",
   "Mode": "Default",
@@ -7817,6 +7817,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/app.css"
+    },
+    {
+      "Identity": "/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/wwwroot/css/app.min.css",
+      "SourceId": "BlazorWebAssembly.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "css/app.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/app.min.css"
     },
     {
       "Identity": "/Users/karimmoustamid/Library/Mobile Documents/com~apple~CloudDocs/4 Hours Code/Learn/01-Blazor/BlazorBook/App/BlazorWebAssembly/Client/wwwroot/css/bootstrap/bootstrap.min.css",
